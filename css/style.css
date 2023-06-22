@@ -1,0 +1,55 @@
+html {
+  font-size: 16px;
+  color: gray;
+  background-color: black;
+}
+body {
+  font-family: "Assistant", sans-serif;
+  width: 90%;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+#content {
+  overflow: auto;
+  height: 100%;
+}
+#feature,
+#header {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+#nav {
+  text-align: center;
+  margin-right: 40px;
+}
+
+.img1,
+.img2,
+.img3 {
+  width: 70%;
+}
+.ErinImage {
+  width: 70%;
+  margin-left: 15%;
+}
+
+.column1,
+.column2,
+.column3 {
+  width: 31.3%;
+  float: left;
+  margin: 1%;
+}
+.column3 {
+  margin-right: 0%;
+}
+
+li {
+  display: inline;
+  padding: 0.5em;
+}
