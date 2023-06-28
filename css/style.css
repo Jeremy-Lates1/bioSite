@@ -27,7 +27,12 @@ h2 {
   text-align: center;
   margin-right: 40px;
 }
+li {
+  display: inline;
+  padding: 0.5em;
+}
 
+/* Landing Page */
 .img1,
 .img2,
 .img3 {
@@ -49,7 +54,19 @@ h2 {
   margin-right: 0%;
 }
 
-li {
-  display: inline;
-  padding: 0.5em;
+/* About Page*/
+#leftdiv,
+#rightdiv {
+  float: left;
+  width: 45%;
+  margin: 1%;
+}
+
+#rightdiv {
+  font-size: 10px;
+}
+
+.cooking {
+  width: 90%;
+  height: 300px;
 }
