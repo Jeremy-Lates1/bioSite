@@ -61,12 +61,13 @@ li {
   width: 45%;
   margin: 1%;
 }
-/*
-#rightdiv {
-  font-size: 10px;
-}
-*/
 
+#rightdiv {
+  margin-top: 0px;
+}
+.paragragh {
+  margin-top: 0px;
+}
 .cooking {
   width: 90%;
   height: 300px;
