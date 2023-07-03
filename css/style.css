@@ -72,3 +72,35 @@ li {
   width: 90%;
   height: 300px;
 }
+/* Hobbies page */
+.grid-container {
+  display: grid;
+  gap: 5px;
+  grid-template-columns: auto auto auto;
+}
+
+.item1 {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+#squamImg,
+#erinCaliImg,
+#erinGrillImg,
+#hoopImg {
+  width: 100%;
+  height: 200px;
+}
+
+figure {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.grid-container-2 {
+  display: grid;
+  gap: 5px;
+  grid-template-columns: auto auto auto;
+}
