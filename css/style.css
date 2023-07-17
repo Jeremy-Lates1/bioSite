@@ -6,8 +6,8 @@ html {
 }
 body {
   font-family: "Assistant", sans-serif;
-  width: 90%;
-  margin: 0 auto;
+  /*width: 90%;*/
+  /* margin: 0 auto; */
 }
 
 h2 {
