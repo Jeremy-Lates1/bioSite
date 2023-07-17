@@ -2,7 +2,8 @@ html {
   font-size: 16px;
   color: gray;
   background-color: black;
-  max-width: 960px;
+  width: 960px;
+  margin: auto;
 }
 body {
   font-family: "Assistant", sans-serif;
