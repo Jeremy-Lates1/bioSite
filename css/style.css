@@ -27,6 +27,10 @@ h2 {
   text-align: center;
   margin-right: 40px;
 }
+#nav a:link {
+  color: white;
+  background-color: transparent;
+}
 li {
   display: inline;
   padding: 0.5em;
@@ -86,6 +90,7 @@ li {
 
 #squamImg,
 #erinCaliImg,
+#erinBasketballImg,
 #erinGrillImg,
 #hoopImg {
   width: 100%;
